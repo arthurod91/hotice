@@ -1,2 +1,2 @@
 # hotice
-Respotorio con la expo final de ISQyB
+Repositorio con la expo final de ISQyB
